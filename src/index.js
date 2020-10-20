@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./Heading.jsx"
+import App from "./components/App.jsx"
 
 // const date = new Date();
 // const currentTime = date.getHours();
